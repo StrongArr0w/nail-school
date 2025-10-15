@@ -295,11 +295,21 @@ p {
 }
 
 .review-card img {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
+  object-fit: cover;
   margin-bottom: 10px;
+  border: 3px solid #ff007f;
+}
+
+.review-card img.review-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 3px solid #ff007f;
 }
 
 .review-card p {
@@ -557,8 +567,8 @@ p {
 
 .modal-close {
   position: absolute;
-  top: 20px; /* ближе к заголовку */
-  right: 20px; /* внутри модалки */
+  top: 20px;
+  right: 20px;
   font-size: 1.4rem;
   cursor: pointer;
   color: #666;
@@ -571,7 +581,7 @@ p {
 
 /* === Footer (Contacts) === */
 .footer {
-  background: #111; /* тёмный фон */
+  background: #111;
   color: #fff;
   text-align: center;
   padding: 40px 20px;
@@ -586,7 +596,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 15px; /* 🔥 это и создаст разделение */
+  gap: 15px;
   margin-bottom: 20px;
 }
 

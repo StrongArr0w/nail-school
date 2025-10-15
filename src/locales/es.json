@@ -1,0 +1,160 @@
+{
+  "logo": { "part1": "Cursos", "part2": "de Manicura" },
+  "navbar": {
+    "home": "Inicio",
+    "courses": "Programas de cursos",
+    "signup": "Inscribirse",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "CURSOS DE MANICURA",
+    "subtitle": "¡Conviértete en una maestra del arte de las uñas en solo 3 días!",
+    "alt": "Trabajo de la maestra",
+    "text": "Tu profesión soñada en el mundo de la belleza. Conviértete en una especialista en manicura desde cero. Domina las habilidades que generan ingresos en solo un mes, incluso si nunca has sostenido una lima.",
+    "cta": "INSCRIBIRSE",
+    "points": [
+      "100% de alumnas satisfechas",
+      "90% práctica y 10% teoría",
+      "Más de 8 años de experiencia enseñando"
+    ]
+  },
+  "banner": {
+    "text": "✨ ¡Del primer pincel a ingresos estables en 30 días! ✨"
+  },
+  "modal": {
+    "title": "Inscribirse en el curso",
+    "name": "Nombre y apellido",
+    "phone": "Número de teléfono",
+    "email": "Correo electrónico",
+    "send": "Enviar",
+    "success": "✅ ¡Gracias! Tu solicitud ha sido enviada.",
+    "error": "Error al enviar. Inténtalo de nuevo.",
+    "networkError": "Error de red. Inténtalo de nuevo."
+  },
+  "courses": {
+    "title": "PROGRAMAS DE CURSOS",
+    "list": [
+      {
+        "b": "Inicio rápido en la profesión",
+        "d": "Curso básico desde cero. Manicura y fortalecimiento con gel.",
+        "details": [
+          "Programa del curso:",
+          "Anatomía de las uñas, enfermedades y alergias",
+          "Materiales (trabajo con geles, acrigeles y esmaltes semipermanentes)",
+          "Desinfección y esterilización de herramientas, seguridad en el trabajo",
+          "Herramientas de trabajo (torno, lámparas, fresas, tijeras y su selección)",
+          "",
+          "Práctica:",
+          "Eliminación correcta del material (con torno/líquido)",
+          "Lima de diferentes formas de uñas",
+          "Técnica de trabajo con fresas",
+          "Técnica de corte de cutículas con tijeras",
+          "Preparación correcta de la placa ungueal",
+          "Fortalecimiento y nivelación de las uñas (aplicación simple y rápida)",
+          "Corrección del fortalecimiento",
+          "Aplicación profunda bajo la cutícula",
+          "Reparación y reconstrucción de uñas",
+          "Diseños de uñas simples",
+          "",
+          "Formato del aprendizaje:",
+          "Lecciones cortas en video que puedes ver desde el móvil",
+          "Tareas con revisión personal y retroalimentación",
+          "Análisis prácticos online de tus trabajos 'antes/después'",
+          "Acceso de por vida a materiales y chat",
+          "",
+          "Precio online: 189 €",
+          "Precio presencial: 300 €"
+        ]
+      },
+      {
+        "b": "Curso de perfeccionamiento: Francesa",
+        "d": "Manicura y esmaltado francesa (dibujada o construida).",
+        "details": [
+          "Programa del curso:",
+          "Estructura y arquitectura de las uñas",
+          "Materiales (trabajo con geles, acrigeles y esmaltes semipermanentes)",
+          "Selección de materiales camuflantes",
+          "Herramientas para trabajar (pinceles, geles y pinturas en gel para francesa)",
+          "",
+          "Práctica:",
+          "Eliminación correcta del material",
+          "Lima de diferentes formas de uñas",
+          "Técnica de trabajo con fresas",
+          "Técnica de corte de cutículas con tijeras",
+          "Preparación de las uñas para el esmaltado",
+          "Fortalecimiento y nivelación de las uñas (aplicación simple y rápida)",
+          "Corrección del fortalecimiento",
+          "Técnica de francesa dibujada",
+          "Arquitectura de francesa construida",
+          "",
+          "Formato del aprendizaje:",
+          "Lecciones cortas en video que puedes ver desde el móvil",
+          "Tareas con revisión personal y retroalimentación",
+          "Análisis prácticos online de tus trabajos 'antes/después'",
+          "Acceso de por vida a materiales y chat",
+          "",
+          "Precio online: 119 €",
+          "Precio presencial: 200 €"
+        ]
+      },
+      {
+        "b": "Curso de perfeccionamiento: Modelado",
+        "d": "Manicura y extensión de uñas.",
+        "details": [
+          "Programa del curso:",
+          "Estructura de las uñas",
+          "Arquitectura de uñas extendidas (oval, almendra, cuadrada)",
+          "Selección de moldes para extensión (superiores, inferiores)",
+          "Materiales (selección de geles y acrigeles)",
+          "Herramientas para trabajar extensiones (pinceles, moldes, tips, lámparas, pinzas)",
+          "",
+          "Práctica:",
+          "Técnica de trabajo con fresas",
+          "Técnica de corte de cutículas con tijeras",
+          "Preparación de las uñas para el esmaltado",
+          "Colocación de moldes para oval, almendra o cuadrada",
+          "Aplicación de material y arquitectura de uñas extendidas",
+          "Lima de diferentes formas de uñas",
+          "Corrección de extensiones",
+          "Lima inferior de uñas",
+          "",
+          "Formato del aprendizaje:",
+          "Lecciones cortas en video que puedes ver desde el móvil",
+          "Tareas con revisión personal y retroalimentación",
+          "Análisis prácticos online de tus trabajos 'antes/después'",
+          "Acceso de por vida a materiales y chat",
+          "",
+          "Precio online: 119 €",
+          "Precio presencial: 200 €"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "SOBRE MÍ",
+    "text": "¡Hola! Me llamo Anastasia y he dedicado más de 15 años al arte de la manicura. Para mí, es más que una profesión: es mi pasión y vocación. Durante estos años, he realizado miles de procedimientos y ayudado a muchas mujeres a conseguir no solo unas manos cuidadas y confianza, sino también una nueva profesión. Gracias a mis cursos, muchas alumnas han construido negocios exitosos, alcanzado ingresos estables y encontrado una ocupación que aman. Comparto no solo la técnica, sino también mis secretos: cómo construir relaciones de confianza con las clientas, fijar precios y evitar el agotamiento. Aquí obtendrás una experiencia concentrada que a mí me tomó años adquirir."
+  },
+  "works": { "title": "MIS TRABAJOS" },
+  "diplomas": { "title": "MIS CERTIFICADOS" },
+  "beforeAfter": { "title": "Antes y Después" },
+  "reviews": {
+    "title": "Opiniones con fotos",
+    "items": [
+      {
+        "text": "¡Estoy muy satisfecha con el curso, aprendí a hacer manicura profesionalmente!",
+        "author": "María"
+      },
+      {
+        "text": "Anastasia es una excelente profesora, lo explica todo de forma clara.",
+        "author": "Olga"
+      }
+    ]
+  },
+  "topBanner": {
+    "text": "✨ ¡Una profesión demandada — cambia tu vida! ✨"
+  },
+  "footer": {
+    "contact": "Contáctame",
+    "rights": "Cursos de manicura. Todos los derechos reservados."
+  }
+}

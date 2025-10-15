@@ -1,0 +1,158 @@
+{
+  "logo": { "part1": "Kursy", "part2": "Manicure" },
+  "navbar": {
+    "home": "Strona główna",
+    "courses": "Programy kursów",
+    "signup": "Zapisz się",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "KURSY MANICURE",
+    "subtitle": "Zostań mistrzem stylizacji paznokci w zaledwie 3 dni!",
+    "alt": "Praca stylistki paznokci",
+    "text": "Twoja wymarzona profesja w branży piękna. Zostań poszukiwaną stylistką paznokci od podstaw. Zdobądź umiejętności, które przynoszą dochód już po miesiącu, nawet jeśli nigdy nie trzymałaś pilnika w ręku.",
+    "cta": "ZAPISZ SIĘ",
+    "points": [
+      "100% zadowolonych kursantek",
+      "90% praktyki i 10% teorii",
+      "Ponad 8 lat doświadczenia w nauczaniu"
+    ]
+  },
+  "banner": {
+    "text": "✨ Od pierwszego pędzelka — do stabilnych zarobków w 30 dni! ✨"
+  },
+  "modal": {
+    "title": "Zapisz się na kurs",
+    "name": "Imię i nazwisko",
+    "phone": "Numer telefonu",
+    "email": "Email",
+    "send": "Wyślij",
+    "success": "✅ Dziękujemy! Twoje zgłoszenie zostało wysłane.",
+    "error": "Błąd podczas wysyłania. Spróbuj ponownie.",
+    "networkError": "Błąd sieci. Spróbuj ponownie."
+  },
+  "courses": {
+    "title": "PROGRAMY KURSÓW",
+    "list": [
+      {
+        "b": "Szybki start w zawodzie",
+        "d": "Kurs podstawowy od zera. Manicure i wzmocnienie żelem.",
+        "details": [
+          "Program kursu:",
+          "Anatomia paznokci, choroby paznokci, alergie",
+          "Materiałoznawstwo (praca z żelami, akrylożelami i lakierami hybrydowymi)",
+          "Dezynfekcja i sterylizacja narzędzi, bezpieczeństwo pracy",
+          "Narzędzia pracy (frezarka, lampy, frezy, nożyczki i ich dobór)",
+          "",
+          "Praktyka:",
+          "Prawidłowe zdejmowanie materiału (frezarką/płynem)",
+          "Opilowanie różnych kształtów paznokci",
+          "Technika pracy frezami",
+          "Technika cięcia skórek nożyczkami",
+          "Prawidłowe przygotowanie płytki paznokcia",
+          "Wzmacnianie i wyrównywanie paznokci (proste i szybkie nakładanie)",
+          "Korekta wzmocnienia",
+          "Aplikacja głęboko pod skórki",
+          "Naprawa i dobudowa paznokci",
+          "Proste zdobienia paznokci",
+          "",
+          "Format nauki:",
+          "Krótkie lekcje wideo, które można oglądać na telefonie",
+          "Zadania domowe z osobistą weryfikacją i informacją zwrotną",
+          "Praktyczne analizy online Twoich prac „przed/po”",
+          "Dożywotni dostęp do materiałów i czatu",
+          "",
+          "Cena online: 189 €",
+          "Cena offline: 300 €"
+        ]
+      },
+      {
+        "b": "Kurs doszkalający: French",
+        "d": "Manicure i french (rysowany, budowany).",
+        "details": [
+          "Program kursu:",
+          "Budowa i architektura paznokci",
+          "Materiałoznawstwo (praca z żelami, akrylożelami i lakierami hybrydowymi)",
+          "Dobór materiałów kamuflujących",
+          "Narzędzia do pracy (pędzle, żele i farby żelowe do frencha)",
+          "",
+          "Praktyka:",
+          "Prawidłowe zdejmowanie materiału",
+          "Opilowanie różnych kształtów paznokci",
+          "Technika pracy frezami",
+          "Technika cięcia skórek nożyczkami",
+          "Przygotowanie paznokci do pokrycia",
+          "Wzmacnianie i wyrównywanie paznokci (proste i szybkie nakładanie)",
+          "Korekta wzmocnienia",
+          "Technika rysowanego frencha",
+          "Architektura budowanego frencha",
+          "",
+          "Format nauki:",
+          "Krótkie lekcje wideo, które można oglądać na telefonie",
+          "Zadania domowe z osobistą weryfikacją i informacją zwrotną",
+          "Praktyczne analizy online Twoich prac „przed/po”",
+          "Dożywotni dostęp do materiałów i czatu",
+          "",
+          "Cena online: 119 €",
+          "Cena offline: 200 €"
+        ]
+      },
+      {
+        "b": "Kurs doszkalający: Modelowanie",
+        "d": "Manicure i przedłużanie paznokci.",
+        "details": [
+          "Program kursu:",
+          "Budowa paznokci",
+          "Architektura przedłużonych paznokci (owal, migdał, kwadrat)",
+          "Dobór form do przedłużania (górne, dolne)",
+          "Materiałoznawstwo (wybór żeli i akrylożeli)",
+          "Narzędzia do pracy z przedłużaniem (pędzle, formy, tipsy, lampy, klipsy)",
+          "",
+          "Praktyka:",
+          "Technika pracy frezami",
+          "Technika cięcia skórek nożyczkami",
+          "Przygotowanie paznokci do pokrycia",
+          "Zakładanie form na owal, migdał lub kwadrat",
+          "Wykładanie materiału i architektura przedłużonych paznokci",
+          "Opilowanie różnych kształtów paznokci",
+          "Korekta przedłużania",
+          "Opilowanie paznokci od spodu",
+          "",
+          "Format nauki:",
+          "Krótkie lekcje wideo, które można oglądać na telefonie",
+          "Zadania domowe z osobistą weryfikacją i informacją zwrotną",
+          "Praktyczne analizy online Twoich prac „przed/po”",
+          "Dożywotni dostęp do materiałów i czatu",
+          "",
+          "Cena online: 119 €",
+          "Cena offline: 200 €"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "O MNIE",
+    "text": "Cześć! Nazywam się Anastazja i poświęciłam sztuce manicure ponad 15 lat. Dla mnie to coś więcej niż zawód – to moja pasja i powołanie. Przez te lata wykonałam tysiące zabiegów i pomogłam dziewczynom zyskać nie tylko zadbane dłonie i pewność siebie, ale także nowy zawód. Dzięki moim kursom uczennice zbudowały udane firmy, osiągnęły stabilny dochód i znalazły ukochane zajęcie. Dzielę się nie tylko techniką, ale też moimi sekretami: jak budować zaufane relacje z klientkami, ustalać ceny i unikać wypalenia zawodowego. Tutaj otrzymasz skoncentrowane doświadczenie, na które poświęciłam lata."
+  },
+  "works": { "title": "MOJE PRACE" },
+  "diplomas": { "title": "MOJE CERTYFIKATY" },
+  "beforeAfter": { "title": "Przed i Po" },
+  "reviews": {
+    "title": "Opinie ze zdjęciami",
+    "items": [
+      {
+        "text": "Jestem bardzo zadowolona z kursu, nauczyłam się robić manicure profesjonalnie!",
+        "author": "Maria"
+      },
+      {
+        "text": "Anastazja to świetna nauczycielka, wszystko tłumaczy bardzo jasno.",
+        "author": "Olga"
+      }
+    ]
+  },
+  "topBanner": { "text": "✨ Poszukiwany zawód — zmień swoje życie! ✨" },
+  "footer": {
+    "contact": "Skontaktuj się ze mną",
+    "rights": "Kursy manicure. Wszelkie prawa zastrzeżone."
+  }
+}

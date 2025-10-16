@@ -45,7 +45,7 @@ body {
 }
 
 main.page {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 /* Общий стиль секций */
@@ -640,5 +640,16 @@ p {
   to {
     transform: translateY(0);
     opacity: 1;
+  }
+}
+@media (max-width: 480px) {
+  .modal {
+    padding: 50px 20px 30px; /* больше верхнего отступа */
+  }
+
+  .modal-close {
+    top: 8px; /* подвигаем крестик ближе к углу */
+    right: 8px;
+    font-size: 1.6rem;
   }
 }

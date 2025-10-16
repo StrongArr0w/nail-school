@@ -45,7 +45,7 @@ body {
 }
 
 main.page {
-  padding-top: 80px;
+  padding-top: 40px;
 }
 
 /* Общий стиль секций */
@@ -337,7 +337,7 @@ p {
 }
 
 .hero-img {
-  max-width: 65%;
+  max-width: 80%;
   border-radius: 12px;
   margin: 0 auto;
   display: block;

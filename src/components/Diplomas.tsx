@@ -8,6 +8,7 @@ import diploma4 from "../assets/diploma4.jpg";
 import diploma5 from "../assets/diploma5.jpg";
 import diploma6 from "../assets/diploma6.jpg";
 import diploma7 from "../assets/diploma7.jpg";
+import diploma8 from "../assets/diploma8.jpg";
 
 export default function Diplomas() {
   const { t } = useTranslation();
@@ -20,6 +21,7 @@ export default function Diplomas() {
     diploma5,
     diploma6,
     diploma7,
+    diploma8,
   ];
 
   return (

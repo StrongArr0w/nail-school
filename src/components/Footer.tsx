@@ -17,8 +17,8 @@ export default function Footer() {
         <a href="tel:+48514686060" className="btn btn-icon">
           <FaPhone /> +48 514 686 060
         </a>
-        <a href="nastysikoko@gmail.com" className="btn btn-icon">
-          <FaEnvelope /> info@nailschool.com
+        <a href="mailto:nastysikoko@gmail.com" className="btn btn-icon">
+          <FaEnvelope /> nastysikoko@gmail.com
         </a>
         <a
           href="https://t.me/nastysi"
